@@ -1,0 +1,27 @@
+# LangChain Core
+langchain
+langchain-Core
+langchain-community
+
+# HuggingFace Integration
+langchain-openai
+openai
+transformers
+sentence-transformers
+
+# PDF Reading
+pypdf
+
+# Vector Store
+faiss-cpu 
+
+# Environment Variable Management
+python-dotenv
+
+#UI
+streamlit
+
+# Machine learning Utilities
+numpy
+scikit-learn
+tqdm
